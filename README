@@ -1,0 +1,6 @@
+Simbot v0.9
+Currently only supports Windows
+Support for other OS coming soon
+Run using botrun.py
+Requires BeautifulSoup and discord.py
+Written by Troy Redfearn
